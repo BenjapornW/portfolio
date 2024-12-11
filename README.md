@@ -3,6 +3,7 @@
 ### Technical Skill
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Education
 
@@ -27,8 +28,9 @@ Master of Information Technology, Royal Melbourne Institute of Technology
 
 #### Personal Projects
 
-- **[Personal Project Name]**  
-  _Description:_ Explain your personal project, its purpose, and what inspired you to create it.  
+- **🚸 Road Traffic Signs Image Classification using a Neural Network**  
+  This project involves training a machine learning model to classify grayscale images of European traffic signs by shape and type using a designated dataset. The project requires developing at least one supervised learning algorithm for each classification task, followed by an analysis in a report.
+
   _Key Features:_
 
   - Built [feature/solution] to address [specific problem or need].
