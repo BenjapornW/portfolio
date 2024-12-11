@@ -2,3 +2,5 @@ title: Oil Wongmayura
 logo: https://avatars.githubusercontent.com/u/152672793?v=4
 show_download: true
 theme: jekyll-theme-minimal
+markdown: kramdown
+custom_css: assets/styles.css
