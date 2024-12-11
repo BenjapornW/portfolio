@@ -14,4 +14,4 @@ Master of Information Technology, Royal Melbourne Institute of Technology
 
 ### Certifications
 
-![Microsoft Certified Fundamentals Badge](asset/img/cert/microsoft-certified-fundamentals-badge.svg)
+![Microsoft Certified Fundamentals Badge](asset/img/badge/azure_fundamental.png)
