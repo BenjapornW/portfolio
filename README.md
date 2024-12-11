@@ -8,17 +8,14 @@ Master of Information Technology, Royal Melbourne Institute of Technology
 
 ### Work Experience
 
-Software Engineer @ FinIQ Consulting
-Banking System Tester @ FinIQ Consulting
-
-### Projects
+- Software Engineer @ FinIQ Consulting
+- Banking System Tester @ FinIQ Consulting
 
 ### Projects
 
 #### Go-Live Projects
 
-- **[
-  BCFX (Bualuang Commercial Foreign Exchange) - Bangkok Bank (2017 - 2022)]**  
+- ** 💵 BCFX (Bualuang Commercial Foreign Exchange) - Bangkok Bank (2017 - 2022)**  
    _Description:_ Briefly describe the project, its purpose, and the impact it had on the business or users.  
    _Key Contributions:_
   - Implemented [specific technology/feature] to achieve [specific outcome].
