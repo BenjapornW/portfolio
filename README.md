@@ -23,7 +23,7 @@ Master of Information Technology, Royal Melbourne Institute of Technology
 
 #### Personal Projects
 
-- **🚸 Road Traffic Signs Image Classification using a Neural Network**  
+- ![🚸 Road Traffic Signs Image Classification using a Neural Network](https://github.com/BenjapornW/Road-Traffic-Signs-Image-Classification-using-a-Neural-Network)\*\*  
   This project involves training a machine learning model to classify grayscale images of European traffic signs by shape and type using a designated dataset. The project requires developing at least one supervised learning algorithm for each classification task, followed by an analysis in a report.
 
 ### Certifications
