@@ -19,29 +19,12 @@ Master of Information Technology, Royal Melbourne Institute of Technology
 #### Go-Live Projects
 
 - BCFX (Bualuang Commercial Foreign Exchange) - Bangkok Bank (2017 - 2022)
-  Briefly describe the project, its purpose, and the impact it had on the business or users.  
-   _Key Contributions:_
-  - Implemented [specific technology/feature] to achieve [specific outcome].
-  - Collaborated with [team/stakeholders] to deliver the project on time.
-  - Optimized [process/system], improving efficiency by [percentage/metrics].  
-    _Technologies Used:_ [List technologies/tools like Python, SQL, Azure, etc.]
+  Briefly describe the project, its purpose, and the impact it had on the business or users.
 
 #### Personal Projects
 
 - **🚸 Road Traffic Signs Image Classification using a Neural Network**  
   This project involves training a machine learning model to classify grayscale images of European traffic signs by shape and type using a designated dataset. The project requires developing at least one supervised learning algorithm for each classification task, followed by an analysis in a report.
-
-  _Key Features:_
-
-  - Built [feature/solution] to address [specific problem or need].
-  - Used [technologies/tools] to design and implement [specific functionality].  
-    _Technologies Used:_ [List tools]
-
-- **[Another Personal Project Name]**  
-  _Description:_ Highlight what makes this project unique or challenging.  
-  _Key Features:_
-  - [Your features and results]  
-    _Technologies Used:_ [List tools]
 
 ### Certifications
 
