@@ -1,6 +1,6 @@
 title: Oil Wongmayura✨
-logo: asset/profile_img.png
+logo: assets/profile_img.png
 show_download: true
 theme: jekyll-theme-minimal
 markdown: kramdown
-custom_css: asset/style.css
+custom_css: assets/style.css

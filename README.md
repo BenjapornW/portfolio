@@ -19,7 +19,6 @@ Master of Information Technology, Royal Melbourne Institute of Technology
 #### Go-Live Projects
 
 - BCFX (Bualuang Commercial Foreign Exchange) - Bangkok Bank (2017 - 2022)
-  Briefly describe the project, its purpose, and the impact it had on the business or users.
 
 #### Personal Projects
 
