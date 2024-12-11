@@ -6,7 +6,7 @@ Technical Skill: Python, SQL, Azure, Databricks, Tableau, Power BI
 
 Master of Information Technology, Royal Melbourne Institute of Technology
 
-### Work Experience
+### 💼 Work Experience
 
 - Software Engineer @ FinIQ Consulting
 - Banking System Tester @ FinIQ Consulting
@@ -15,8 +15,8 @@ Master of Information Technology, Royal Melbourne Institute of Technology
 
 #### Go-Live Projects
 
-- ** 💵 BCFX (Bualuang Commercial Foreign Exchange) - Bangkok Bank (2017 - 2022)**  
-   _Description:_ Briefly describe the project, its purpose, and the impact it had on the business or users.  
+- 💵 BCFX (Bualuang Commercial Foreign Exchange) - Bangkok Bank (2017 - 2022)
+  _Description:_ Briefly describe the project, its purpose, and the impact it had on the business or users.  
    _Key Contributions:_
   - Implemented [specific technology/feature] to achieve [specific outcome].
   - Collaborated with [team/stakeholders] to deliver the project on time.
