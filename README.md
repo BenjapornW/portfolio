@@ -11,3 +11,7 @@ Master of Information Technology, Royal Melbourne Institute of Technology
 ### Projects
 
 ### Certifications
+
+### Certifications
+
+![Microsoft Certified Fundamentals Badge](asset/img/cert/microsoft-certified-fundamentals-badge.svg)
